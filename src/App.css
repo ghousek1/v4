@@ -1,0 +1,5 @@
+.section-padding{
+    @apply px-8 pt-3 pb-12;
+    @apply md:px-20 md:pt-6 md:pb-20;
+}
+
